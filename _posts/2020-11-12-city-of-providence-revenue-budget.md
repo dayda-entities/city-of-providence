@@ -1,18 +1,18 @@
 ---
 title: City of Providence Revenue Budget
-created: '2020-11-12T12:30:59.891176'
-modified: '2020-11-12T12:30:59.891186'
+created: '2020-11-12T12:31:14.252777'
+modified: '2020-11-12T12:31:14.252787'
 state: active
 type: dataset
 tags:
   - Budget
-  - Fy2017
+  - Finance
 groups:
   - Local Government
-csv_url: 'https://data.providenceri.gov/api/views/4sus-7nus/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://data.providenceri.gov/api/views/9jte-7uk8/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://data.providenceri.gov/api/views/4sus-7nus/rows.json?accessType=DOWNLOAD
+  https://data.providenceri.gov/api/views/9jte-7uk8/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-This dataset includes the Proposed and Approved Revenue Budget from FY2012 through FY2017. Actual Revenues have been included through FY2016.
+This dataset contains annual revenues budgets, per department, beginning in FY2012. The data includes Recommended Amounts from the Mayor's budget, as well as City Council Approved Amounts.
