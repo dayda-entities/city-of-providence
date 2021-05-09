@@ -1,18 +1,18 @@
 ---
 title: City of Providence Operating Budget
-created: '2020-11-12T12:32:00.582666'
-modified: '2020-11-12T12:32:00.582674'
+created: '2020-11-12T12:31:21.250905'
+modified: '2020-11-12T12:31:21.250915'
 state: active
 type: dataset
 tags:
   - Budget
-  - Finance
+  - Fy2017
 groups:
   - Local Government
-csv_url: 'https://data.providenceri.gov/api/views/su69-jatv/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://data.providenceri.gov/api/views/bxav-8a5v/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://data.providenceri.gov/api/views/su69-jatv/rows.json?accessType=DOWNLOAD
+  https://data.providenceri.gov/api/views/bxav-8a5v/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---
-This dataset contains annual operating budgets, per department, beginning in FY2012. The data includes Recommended Amounts from the Mayor's budget, as well as City Council Approved Amounts.
+This dataset includes the Proposed and Approved Operating Budget from FY2012 through FY2017. Actual Operating Expenses have been included through FY2016.
