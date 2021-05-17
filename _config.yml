@@ -10,8 +10,7 @@ source_contact_type: general
 source_phone: +1 555-555-5555
 source_email: info@example.com
 source_catalog: data.gov
-profile_pic: >-
-  https://data.providenceri.gov/api/assets/0D737DBB-91A0-4151-BF06-C34EEA7BE5D3?OpenDataHeader.jpg
+profile_pic: 'https://directory.dayda.org/assets/img/entities/city-of-providence.png'
 favicon: /assets/img/favicon.png
 url: 'http://city-of-providence.dayda.org'
 encoding: utf-8
